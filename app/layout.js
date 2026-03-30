@@ -45,7 +45,7 @@ export const metadata = {
   openGraph: {
     type: "website",
     locale: "en_IN",
-    url: "https://aktoursandtravels.in", // Replace with your actual domain
+    url: "https://aktravels.in", // Replace with your actual domain
     siteName: "AK Tours & Travels",
     title: "AK Tours & Travels | Premium Taxi & Tours in Tamil Nadu",
     description: "Reliable 24/7 taxi service covering Chennai, Madurai, Coimbatore, Coimbatore, and all TN districts.",
@@ -81,7 +81,7 @@ export default function RootLayout({ children }) {
               "image": "https://aktravels.in/logo.png",
               "@id": "https://aktravels.in",
               "url": "https://aktravels.in",
-              "telephone": "+916380829253",
+              "telephone": "+918190022220",
               "address": {
                 "@type": "PostalAddress",
                 "streetAddress": "Coimbatore",
