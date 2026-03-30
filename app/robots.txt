@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Block technical routes
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+# Host and Sitemap
+Sitemap: https://aktoursandtravels.in/sitemap.xml
+Host: https://aktoursandtravels.in
